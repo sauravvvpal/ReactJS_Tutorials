@@ -1,0 +1,18 @@
+.Navbar li{
+    display: inline-block;
+    padding: 10px 5px;
+}
+.Navbar{
+    text-align: right;
+}
+.Navbar .active{
+    color: purple;
+    background-color: aquamarine;
+}
+.nav-link{
+    color: black;
+    text-decoration: none;
+}
+.nav-link:hover{
+    color:orange
+}
